@@ -48,5 +48,5 @@ The sun is not Yellow !! Its actually White.
 ## GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeswinpeter&theme=github" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeswinpeter&theme=github&bg_color=000000&line_color=00ff00&point_color=ffff00" alt="GitHub Contribution Graph" />
 </p>
