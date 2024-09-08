@@ -1,10 +1,10 @@
-# Jeswin Peter
+# Jeswin Peter here
 ### A Science Enthusiast
 
 ## About Me
 - 👋 Hi, I’m Jeswin Peter.
 - 👀 I’m interested in anything Science.
-- 🌱 I’m currently learning Btech Computer Science. 
+- 🌱 I’m currently learning about Computers. 
 - 💞️ I’m looking to collaborate on anything now.
 - 📫 Reaching me is hard, but do try at jeswinpeter92@gmail.com
 - 😄 Pronouns: He/Him 
