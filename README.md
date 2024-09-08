@@ -15,12 +15,9 @@ The sun is not Yellow !! Its actually White.
 ## Connect with Me
 
 <p align="center">
-  <a href="https://instagram.com/jesvinpeter" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeswinpeter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/feed/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
+  <a href="https://instagram.com/jesvinpeter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesvinpeter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/jeswin-peter-019873294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeswin-peter-019873294" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jeswinpeter92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jeswinpeter92" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools
