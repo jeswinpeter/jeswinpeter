@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/Him 
 ## Fun Fact
 
-#_The sun is not Yellow !! Its actually White._
+__The sun is not Yellow !! Its actually White.__
 
 ## Connect with Me
 
