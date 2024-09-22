@@ -15,9 +15,16 @@
 ## `Connect with Me`
 
 <p align="center">
-  <a href="https://instagram.com/jesvinpeter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesvinpeter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/jeswin-peter-019873294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeswin-peter-019873294" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jeswinpeter92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jeswinpeter92" height="30" width="40" /></a>
+  <a href="https://instagram.com/jesvinpeter" target="blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"><!-- Instagram -->
+  </a>
+  <a href="https://linkedin.com/in/jeswin-peter-019873294" target="blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"><!-- Linkdin -->
+  </a>
+<a href="https://www.hackerrank.com/jeswinpeter92" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jeswinpeter92" height="100" width="100" />
+</a>
+  
 </p>
 
 ## `Languages and Tools`
@@ -36,7 +43,7 @@
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100"><!-- c programming -->
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/><!-- Java -->
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><!-- Python -->
