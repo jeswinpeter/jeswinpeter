@@ -22,7 +22,7 @@
 ## `Connect with Me`
 
 <p align="center">
-  <a href="https://instagram.com/jesvinpeter" target="blank">
+  <a href="https://instagram.com/jesvinpeter" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80"><!-- Instagram -->
   </a>
   <a href="https://linkedin.com/in/jeswin-peter-019873294" target="blank">
