@@ -11,7 +11,7 @@
 ## `About Me`
 - 👋 Hi, I’m Jeswin Peter.
 - 👀 I’m interested in anything Science.
-- 🌱 I’m currently learning about Computers. 
+- 🌱 I’m currently Exploring Opencv and pygames. 
 - 💞️ I’m looking to collaborate on anything now.
 - 📫 Reaching me is hard, but do try at jeswinpeter92@gmail.com
 - 😄 Pronouns: He/Him 
@@ -73,7 +73,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeswinpeter&show_icons=true&locale=en&theme=blue-green" alt="jeswinpeter" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeswinpeter&theme=blue-green" alt="jeswinpeter" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeswinpeter&theme=blue-green" alt="jeswinpeter" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeswinpeter&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="jeswinpeter" />
 </p>
 
