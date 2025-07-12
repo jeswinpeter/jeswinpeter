@@ -56,6 +56,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><!-- Python -->
   </a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"><!-- Node -->
+  </a>
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="80"><!-- HTML -->
    </a>
