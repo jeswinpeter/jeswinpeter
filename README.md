@@ -59,6 +59,12 @@
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"><!-- Node -->
   </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="80" height="80"/> <!-- React Native -->
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/><!-- Type Script -->
+  </a> 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="80"><!-- HTML -->
    </a>
