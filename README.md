@@ -66,14 +66,16 @@
     <td align="center"><!-- c programming --><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="80" alt="C programming"/></a></td>
     <td align="center"><!-- Java --><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/></a></td>
     <td align="center"><!-- Python --><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="Python"/></a></td>
+  </tr>
+  <tr>
     <td align="center"><!-- Node --><a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" alt="Node"/></a></td>
     <td align="center"><!-- React Native --><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="80" height="80"/></a></td>
     <td align="center"><!-- Type Script --><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/></a></td>
-  </tr>
-  <tr>
     <td align="center"><!-- HTML --><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="80" alt="HTML"/></a></td>
     <td align="center"><!-- ORACLE SQL --><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg" alt="oracle" width="80" height="80"/></a></td>
     <td align="center"><!-- CSS --><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="80" alt="CSS"/></a></td>
+  </tr>
+  <tr>
     <td align="center"><!-- JavaScript --><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" alt="JavaScript"/></a></td>
     <td align="center"><!-- C++ --><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/></a></td>
     <td align="center"><!-- Kotlin --><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="80" height="80"/></a></td>
