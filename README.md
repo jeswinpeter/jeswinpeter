@@ -81,7 +81,7 @@
     <td align="center"><!-- Kotlin --><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="80" height="80"/></a></td>
     <td align="center"><!-- Docker --><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80"/></a></td>
     <td align="center"><!-- Android --><img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="80" height="80" alt="Android"/></td>
-    <td align="center"></td>
+    <td align="center"><!-- Tailwind --><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100" height="100"></td>
   </tr>
 </table>
 
